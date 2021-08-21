@@ -52,4 +52,5 @@ export const PERFORMER_FIELDS = [
   "career_length",
   "tattoos",
   "piercings",
+  "stash-id",
 ];
